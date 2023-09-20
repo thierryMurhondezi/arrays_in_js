@@ -2,3 +2,5 @@
 var myArray = [1, 2, 3];
 // This creates an array called 'myArray' and adds three values to it: 1, 2, and 3. Each value is known as an "element" of the array. Individual elements can be accessed using an index number, like this:
 var myValue = myArray[0];
+
+var myName1 = "Joseph" ;
